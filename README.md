@@ -9,6 +9,9 @@ It intercepts the network requests (XMLHttpRequest and Fetch API) made by the Am
 <br>
 
 ## Installation
+
+*(Special thanks to the original author [logore](https://github.com/logore) for this installation demonstration video)*
+
 https://user-images.githubusercontent.com/106620095/182008817-a4ebf596-e75c-40ec-9abf-177a658ce293.mp4
 
 <br>
